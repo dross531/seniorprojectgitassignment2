@@ -1,1 +1,1 @@
-"hi john whats sup bro" 
+hi john what's up bro 
